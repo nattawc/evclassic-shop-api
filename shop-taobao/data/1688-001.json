@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "msg": "请求成功【success】",
+  "data": {
+    "offerTitle": "适用徐工60/80/85/150/215挖掘机配件 挖机点火钥匙 门锁启动钥匙",
+    "price": "2.50",
+    "offerUnit": "部",
+    "saledCount": "103",
+    "offerImgList": [
+      "https://cbu01.alicdn.com/img/ibank/2019/647/065/10859560746_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/471/244/10829442174_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/999/814/10829418999_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/851/854/10887458158_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/041/164/10887461140_1188113683.jpg"
+    ],
+    "companyName": "瑞安市志宏挖掘机配件有限公司",
+    "sellerMemberId": "b2b-1934299858",
+    "sellerUserId": "1934299858",
+    "topCategoryId": "65",
+    "postCategoryId": "1032506",
+    "skuPriceScale": "￥2.50-￥1.50",
+    "skuPriceScaleOriginal": "￥2.50-￥1.50",
+    "skuInfoMap": [],
+    "skuInfoMapOriginal": null,
+    "skuProps": null,
+    "orderParamModel": {
+      "orderParam": {
+        "addCartParam": { "cartType": "" },
+        "beginNum": "3",
+        "canBookedAmount": "8588",
+        "flow": "general",
+        "mixParam": {
+          "mixAmount": "1000",
+          "mixBegin": "0",
+          "mixNum": "2147483647",
+          "shopMixNum": "2147483647",
+          "supportMix": "true"
+        },
+        "saledCount": "103",
+        "skuParam": {
+          "skuPriceType": "rangePrice",
+          "skuRangePrices": [
+            { "beginAmount": "3", "price": "2.50", "startAmount": "3" },
+            { "beginAmount": "50", "price": "2.00", "startAmount": "50" },
+            { "beginAmount": "100", "price": "1.50", "startAmount": "100" }
+          ]
+        }
+      }
+    },
+    "filterModel": null,
+    "descImages": [
+      "https://cbu01.alicdn.com/img/ibank/2018/048/947/10159749840_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2018/369/182/10187281963_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/647/065/10859560746_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/471/244/10829442174_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/999/814/10829418999_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2019/851/854/10887458158_1188113683.jpg",
+      "https://cbu01.alicdn.com/img/ibank/2018/597/155/9092551795_1188113683.jpg"
+    ],
+    "videoUrl": [],
+    "propsList": [],
+    "detailUrl": "https://g.alicdn.com/takla-group/app-detail/detail/p/index.html?url=http://img01.taobaocdn.com/tfscom/TB1vUoNRxTpK1RjSZFMXXbG_VXa"
+  }
+}
